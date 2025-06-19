@@ -1,7 +1,8 @@
 #Quiz Application
 
 A dynamic and interactive Quiz Application built using Angular, HTML, CSS, and JavaScript. This app allows users to take quizzes on various topics, get instant feedback, and view their final score upon completion.
-🚀 Features
+
+ 🚀 Features
 
     📋 Multiple-choice questions
 
