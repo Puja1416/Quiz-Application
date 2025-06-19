@@ -1,43 +1,27 @@
-#Quiz Application
+# QuizApplication
 
-A dynamic and interactive Quiz Application built using Angular, HTML, CSS, and JavaScript. This app allows users to take quizzes on various topics, get instant feedback, and view their final score upon completion.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
- 🚀 Features
+## Development server
 
-    📋 Multiple-choice questions
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-    ⏳ Timer-based quiz functionality
+## Code scaffolding
 
-    ✅ Instant answer validation
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-    📊 Score tracking and result summary
+## Build
 
-    🔄 Option to retake the quiz
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-    💻 Responsive design for desktop and mobile devices
+## Running unit tests
 
-🛠️ Technologies Used
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-    Angular – Frontend framework for building dynamic single-page applications
+## Running end-to-end tests
 
-    TypeScript – For strong typing and scalable application structure
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-    HTML5 – Markup for content structure
+## Further help
 
-    CSS3 – Styling and layout
-
-    JavaScript – Core logic and interactivity
-
-
-📦 Installation
-
-Install dependencies:
-
-npm install
-
-Run the development server:
-
-    ng serve
-
-    Navigate to http://localhost:4200 in your browser.
-
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
